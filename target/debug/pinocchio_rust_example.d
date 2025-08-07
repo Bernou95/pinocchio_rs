@@ -1,0 +1,1 @@
+/home/bernardo/Documents/pinnochio_rs/target/debug/pinocchio_rust_example: /home/bernardo/Documents/pinnochio_rs/build.rs /home/bernardo/Documents/pinnochio_rs/cpp_wrapper/CMakeLists.txt /home/bernardo/Documents/pinnochio_rs/cpp_wrapper/pinocchio_wrapper.cpp /home/bernardo/Documents/pinnochio_rs/cpp_wrapper/pinocchio_wrapper.h /home/bernardo/Documents/pinnochio_rs/src/main.rs

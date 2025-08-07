@@ -1,0 +1,10 @@
+[package]
+name = "pinocchio_rust_example"
+version = "0.1.0"
+edition = "2021"
+build = "build.rs"   # <-- so Cargo knows to run your build script
+
+[dependencies]
+
+[build-dependencies]
+
