@@ -1,2 +1,3 @@
-cpp_wrapper/build/
-target/
+tutorial_example/cpp_wrapper/build/
+test1/cpp_src/build/
+
